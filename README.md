@@ -1,5 +1,5 @@
 # Context-React
-A demo app using React Context API to change theme and language.
+A Demo app using React Context API to change theme and language.
 
 ##### Built With
 + HTML5
@@ -14,7 +14,7 @@ clone repo
 run `npm start`
 
 # Live Version
-#### URL: [Start Making Color Palette](https://context-hooks.ayezahmed.now.sh/)
+#### URL: [Play with Demo](https://context-hooks.ayezahmed.now.sh/)
 
 # Author
 Saintaze [@saintaze](https://github.com/saintaze/)
